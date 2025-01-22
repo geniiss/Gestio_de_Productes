@@ -1,0 +1,8 @@
+Structures
+Este directorio contiene diferentes estructuras usadas en nuestro proyecto
+
+*Pair
+Estructura utilizada para almacenar dos valores juntos que normalmente estan asociados entre si.
+
+*Path
+Clase utilizada para guardar todos los paths que utilizamos en el proyecto

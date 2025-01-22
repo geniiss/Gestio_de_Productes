@@ -1,0 +1,12 @@
+Dades
+Este directorio contiene todos las clases de Dades
+
+
+*Supermercat
+La clase Supermercat es una de las implementaciones de la interfaz IDades
+
+
+*Producte
+La clase Producte es una de las implementaciones de la interfaz IDades
+
+

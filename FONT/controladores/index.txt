@@ -1,0 +1,18 @@
+Controladores
+Este directorio contiene todo el codigo de las clases controladoras del proyecto.
+
+
+*CntrlDomini
+La clase CntrlDomini se encarga de gestionar todos los casos de uso que conllevan una gestion de datos comunicandose con la capa de presentacion y la interfaz IDades.
+
+
+*CntrlAlgoritme
+La clase CntrlAlgoritme se encarga de gestionar todos los casos de uso que conllevan el calculo de los algoritmos comunicandose con la capa de presentacion y la interfaz IOrdenacion.
+
+
+*CntrlView
+La clase CntrlView se encarga de gestionar todas las vistas y la interfaz con el usuario.
+
+
+*CntrlPersistencia
+La clase CntrlPersistencia se encarga de gestionar la capa de persistencia de nuestro proyecto

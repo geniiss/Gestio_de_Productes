@@ -1,0 +1,17 @@
+8
+"Arròs" "Arròs integral" 1.8
+"Pollastre" "Pollastre fresc" 6.5 12
+"Sal" "Sal marina" 0.5 23 45
+"Oli" "Oli d'oliva verge extra" 4.2 34 56 78
+"Pebre" "Pebre negre" 2.1 12 34 56 78
+"All" "All fresc" 0.9 23 45 67 89 32
+"Farina" "Farina de blat" 1.2 12 34 56 78 89 12
+"Sucre" "Sucre morè" 1.5 23 45 67 89 43 21 65
+-1 12 23 34 12 23 12 23
+12 -1 45 56 34 45 34 45
+23 45 -1 78 56 67 56 67
+34 56 78 -1 78 89 78 89
+12 34 56 78 -1 32 89 43
+23 45 67 89 32 -1 12 21
+12 34 56 78 89 12 -1 65
+23 45 67 89 43 21 65 -1

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"algoritmo"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"controladores"},{"l":"dades"},{"l":"drivers"},{"l":"interfaces"},{"l":"structures"},{"l":"tests"},{"l":"views"}];updateSearchResults();

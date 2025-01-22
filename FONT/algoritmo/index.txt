@@ -1,0 +1,31 @@
+Algoritmo
+Este directorio contiene todos los algoritmos del proyecto.
+
+
+*BruteForceGenerator
+La clase BruteForceGenerator es una de las implementaciones de la interfaz IAlgoritmo, donde el metodo trata de enumerar todos los posibles candidatos y verificar que caso cumple las condiciones.
+
+
+*BruteForceGenerator2
+La clase BruteForceGenerator2 es una de las implementaciones de la interfaz IAlgoritmo, donde el metodo trata de enumerar todos los posibles candidatos y verificar que caso cumple las condiciones.
+
+
+*GreedySolutionGenerator
+La clase GreedySolutionGenerator es una de las implementaciones de la interfaz IAlgoritmo, donde el metodo es una estrategia de búsqueda tratando de elegir en elegir la opción óptima en cada paso.
+
+
+**TSPApproximator
+La clase TSPApproximator es una de las implementaciones de la interfaz IAlgoritmo, donde el metodo busca la ruta mas corta posible visitando un conjunto de vertices una unica vez. 
+
+
+**DFS
+La clase DFS es una de las implementaciones de la interfaz IAlgoritmo, donde el metodo recorre todos los nodos de un grafo o árbol de manera ordenada.
+
+
+**Prim
+La clase Prim es una de las implementaciones de la interfaz IAlgoritmo, donde el metodo encuentra un arbol de expansion minima en un grafo conexo.
+
+
+**ComputeCost
+La clase ComputeCost es una de las implementaciones de la interfaz IAlgoritmo
+

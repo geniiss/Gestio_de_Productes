@@ -1,0 +1,21 @@
+2
+-1 100
+100 -1
+200
+// - RESULTADOS - //
+
+BruteForce:
+    - Coste:        200
+    - Distribución: [0, 1]
+
+BruteForce2:
+    - Coste:        200
+    - Distribución: [0, 1]
+
+Greedy:
+    - Coste:        200
+    - Distribución: [0, 1]
+
+TSP:
+    - Coste:        200
+    - Distribución: [0, 1]

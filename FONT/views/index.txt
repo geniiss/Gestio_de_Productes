@@ -1,0 +1,17 @@
+Views
+Este directorio contiene todo el código de las vistas e interfaz del proyecto
+
+*GestionarProducteView
+Esta es la vista para gestionar los productos de la estantería.
+
+*GestionarSupermercatView
+Esta es la vista que gestiona el supermercado.
+
+*LlistaProductesView
+Esta es la vista donde está listado todos los productos del supermercado.
+
+*MainView
+Vista principal del programa
+
+*PrestatgeriaView
+Esta es la vista de la estantería del supermercado.

@@ -1,0 +1,23 @@
+4
+-1 10 15 20
+10 -1 35 25
+15 35 -1 30
+20 25 30 -1
+95
+// - RESULTADOS - //
+
+BruteForce:
+    - Coste:        0
+    - Distribución: [0]
+
+BruteForce2:
+    - Coste:        0
+    - Distribución: [0]
+
+Greedy:
+    - Coste:        95
+    - Distribución: [1, 2, 3, 0]
+
+TSP:
+    - Coste:        0
+    - Distribución: [0]

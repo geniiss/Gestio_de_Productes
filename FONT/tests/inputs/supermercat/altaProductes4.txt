@@ -1,0 +1,9 @@
+4
+"Patata" "Patata blanca per fregir" 2.5 
+"Iogurt" "Iogurt natural" 5.32 23
+"Cereals" "Cereals flocs de blat de moro" 3.21 21 76
+"Pernil" "Pernil salat ibèric" 3.2 45 12 6
+-1 23 21 45
+23 -1 76 12
+21 76 -1 6
+45 12 6 -1

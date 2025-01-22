@@ -1,0 +1,6 @@
+INTERFACES
+Este directorio contiene las funciones abstractas de las interfaces de Dades y Algortitme
+
+
+*IAlgoritme
+En la interfaz de Algortitme, IOrdenacion, esta creada la funcionalidad abstracta de la interfaz, la cual despues utilizan todos los algoritmos de ordenacion.

@@ -1,0 +1,1 @@
+Esta carpeta contiene las imágenes de los productos. Se puede usar cualquier otra carpeta para guardar las imágenes, pero es conveniente usar esta.

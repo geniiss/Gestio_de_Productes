@@ -1,0 +1,13 @@
+6
+"Tomàquet" "Tomàquet madur" 1.75
+"Formatge" "Formatge curat" 4.5 12
+"Pa" "Pa de pagès" 1.2 34 56
+"Vi" "Vi negre" 7.8 23 45 67
+"Pollastre" "Pollastre a l'ast" 8.5 12 34 56 78
+"Enciam" "Enciam iceberg" 1.3 23 45 67 89 43
+-1 12 34 23 12 23
+12 -1 56 45 34 45
+34 56 -1 67 56 67
+23 45 67 -1 78 89
+12 34 56 78 -1 43
+23 45 67 89 43 -1

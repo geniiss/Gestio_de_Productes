@@ -1,0 +1,2 @@
+Esta carpeta contiene imágenes de los iconos de los supermercados. Se puede usar cualquier otra carpeta para guardar las imágenes, pero es conveniente usar esta.
+Todas las imágenes tienen que ser 500x500 píxeles y de extensión: jpg, jpeg o png

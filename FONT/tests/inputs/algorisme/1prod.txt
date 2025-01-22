@@ -1,0 +1,20 @@
+1
+-1
+0
+// - RESULTADOS - //
+
+BruteForce:
+    - Coste:        0
+    - Distribución: [0]
+
+BruteForce2:
+    - Coste:        0
+    - Distribución: [0]
+
+Greedy:
+    - Coste:        0
+    - Distribución: [0]
+
+TSP:
+    - Coste:        0
+    - Distribución: [0]

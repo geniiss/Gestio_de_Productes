@@ -1,0 +1,47 @@
+Test
+Este directorio contiene todo el código del testeo de todas las clases
+
+
+*Runner
+Per a poder executar correctament els tests
+
+
+*TestPrestatgeria
+Test de la clase Prestatgeria
+
+
+*TestProducte
+Test de la clase Producte
+
+
+*TestPrim
+Test de Algortimo Prim
+
+
+*TestBruteForce
+Test de la clase BruteForce
+
+
+*TestBruteForce2
+Test de la clase BruteForce2
+
+
+*TestDFS
+Test de la clase DFS
+
+
+*TestGreedy
+Test de Algortimo Greedy
+
+
+*TestTSP
+Test de la clase TSPApproximator
+
+
+*TestComputeCost
+Test de la clase ComputeCost
+
+
+*TestSupermercat
+Test de la clase Supermercat
+
