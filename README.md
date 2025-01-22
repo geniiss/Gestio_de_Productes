@@ -1,18 +1,4 @@
-## Autors
-
-Gimeno Borras, Eduardo<br>
-Carretero, Genís<br>
-Bejarano, Joan<br>
-Onying, Vorasak<br>
-<br>
-
-## Contacte
-
-eduardo.gimeno@estudiantat.upc.edu<br>
-genis.carretero@estudiantat.upc.edu<br>
-joan.bejarano@estudiantat.upc.edu<br>
-vorasak.onying@estudiantat.upc.edu<br>
-<br>
+# Gestió de productes
 
 ## Descripció del Projecte
 
@@ -28,3 +14,19 @@ Al directori "DOC" hi ha la documentació feta amb javadoc, el manual d'usuari i
 
 ## Dades
 Al directori "DATA" hi ha les dades inicials de l'aplicació que són una espècie de joc de proves per comprovar els diferents casos d'us de l'aplicació, allà és on es guarden les dades, amb text pla. També conté unes imatges de productes i supermercats.
+
+## Autors
+
+Gimeno Borras, Eduardo<br>
+Carretero, Genís<br>
+Bejarano, Joan<br>
+Onying, Vorasak<br>
+<br>
+
+## Contacte
+
+eduardo.gimeno@estudiantat.upc.edu<br>
+genis.carretero@estudiantat.upc.edu<br>
+joan.bejarano@estudiantat.upc.edu<br>
+vorasak.onying@estudiantat.upc.edu<br>
+<br>
